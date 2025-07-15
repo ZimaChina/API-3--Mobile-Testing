@@ -17,11 +17,11 @@ El objetivo de esta actividad es simular la funcionalidad base de un módulo de 
 
 ## 🧪 Ejecución
 
-Este ejemplo fue desarrollado en Kotlin (JVM) para simplificar la entrega, pudiendo ser ejecutado directamente desde consola o IDE como IntelliJ IDEA.
+Este ejemplo fue desarrollado en Kotlin (JVM) para simplificar la entrega, pudiendo ser ejecutado directamente desde consola bash o Android Studio creando una empty activityy de kotlincon JVm.
 
 ### ✅ Requisitos
 
-- Kotlin 1.9+
+- Kotlin 2.1+
 - Gradle
 - Gson (para deserializar JSON)
 - kotlinx-coroutines
@@ -58,5 +58,7 @@ Google Pixel 6 - 799.99 USD
 - HTTP (HttpURLConnection)
 
 ## 📄 Licencia
+Mit
+
 
 Uso educativo - Actividad 3 (Mobile Testing)
